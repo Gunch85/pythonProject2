@@ -4,6 +4,7 @@ for el in (15, 48, 6, 19):
         print(el)
 num = 48
 sum = 0
+
 while (num != 0):
     sum = sum + num % 10
     num = num // 10
